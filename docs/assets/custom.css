@@ -1,0 +1,20 @@
+.flex {
+    display: flex;
+}
+
+.support {
+    display: flex;
+    flex-direction: column;
+}
+
+.support img {
+    margin-bottom: 0 !important;
+}
+
+.justify-end {
+    justify-content: end;
+}
+
+.mt-auto {
+    margin-top: auto;
+}
