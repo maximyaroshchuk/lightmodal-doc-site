@@ -12,13 +12,6 @@ export default defineAppConfig({
         href: 'https://www.npmjs.com/package/light-modal-vue3'
       }
     },
-    github: {
-      dir: '.starters/default/content',
-      branch: 'main',
-      repo: 'docus',
-      owner: 'nuxt-themes',
-      edit: true
-    },
     aside: {
       level: 0,
       collapsed: false,
