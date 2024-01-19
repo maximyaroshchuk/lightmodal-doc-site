@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e38807c9-6801-48da-9c6c-f9d6cc8d0571" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/assets/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/content/2.Demo/_dir.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/content/2.Demo/1.demo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/app.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/app.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/content/0.index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/content/0.index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/content/1.Guide/2.content.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/content/1.Guide/2.content.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/content/1.Guide/3.props.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/content/1.Guide/3.props.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/content/1.Guide/_dir.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/content/1.Guide/_dir.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/content/1.Guide/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/content/1.Guide/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +69,7 @@
       <updated>1703721543541</updated>
       <workItem from="1703721545660" duration="422000" />
       <workItem from="1703722935766" duration="1462000" />
-      <workItem from="1705648427561" duration="6108000" />
+      <workItem from="1705648427561" duration="6957000" />
     </task>
     <servers />
   </component>
