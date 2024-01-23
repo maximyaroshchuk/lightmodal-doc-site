@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e38807c9-6801-48da-9c6c-f9d6cc8d0571" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/content/2.Demo/1.demo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/buttons-result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/content/1.Guide/6.modal-buttons.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/app.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/app.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/content/1.Guide/3.props.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/content/1.Guide/3.props.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,11 +52,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/assets" />
       <recent name="$PROJECT_DIR$/docs/public" />
       <recent name="$PROJECT_DIR$/docs/content" />
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/docsite" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -69,7 +69,10 @@
       <updated>1703721543541</updated>
       <workItem from="1703721545660" duration="422000" />
       <workItem from="1703722935766" duration="1462000" />
-      <workItem from="1705648427561" duration="6957000" />
+      <workItem from="1705648427561" duration="7631000" />
+      <workItem from="1705674915161" duration="294000" />
+      <workItem from="1705676705656" duration="398000" />
+      <workItem from="1705997167575" duration="2462000" />
     </task>
     <servers />
   </component>
